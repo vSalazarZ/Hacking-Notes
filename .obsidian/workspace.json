@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pico CTF/General Skills/1-Lets Warm Up.md",
+                "file": "Pico CTF/General Skills/01-Lets Warm Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-Lets Warm Up"
+              "title": "01-Lets Warm Up"
             }
           }
         ]
@@ -170,8 +170,17 @@
   },
   "active": "e41684da61a86454",
   "lastOpenFiles": [
+    "Pico CTF/General Skills/10-Nice netcat.md",
+    "Pico CTF/General Skills/09-Glitch Cat.md",
+    "Pico CTF/General Skills/08-Plumbing.md",
+    "Pico CTF/General Skills/07-What's a net cat.md",
+    "Pico CTF/General Skills/06-Obedient Cat.md",
+    "Pico CTF/General Skills/05-First Grep.md",
+    "Pico CTF/General Skills/04-Bases.md",
+    "Pico CTF/General Skills/02-2Warm.md",
+    "Pico CTF/General Skills/03-Warmed Up.md",
+    "Pico CTF/General Skills/01-Lets Warm Up.md",
     "README.md",
-    "Pico CTF/General Skills/1-Lets Warm Up.md",
     "Pico CTF/General Skills",
     "Bienvenido.md",
     "Pico CTF/1-Lets Warm Up.md",
