@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pico CTF/General Skills/01-Lets Warm Up.md",
+                "file": "Pico CTF/General Skills 2/09-Big zip.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Lets Warm Up"
+              "title": "09-Big zip"
             }
           }
         ]
@@ -168,18 +168,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e41684da61a86454",
+  "active": "f118d0430c1fa7be",
   "lastOpenFiles": [
-    "Pico CTF/General Skills/10-Nice netcat.md",
+    "Pico CTF/General Skills 2/10-First Find.md",
+    "Pico CTF/General Skills 2/01-Based-.md",
+    "Pico CTF/General Skills 2/02-Strings It.md",
+    "Pico CTF/General Skills 2/08-Repetitions.md",
+    "Pico CTF/General Skills 2/03-Wave a flag.md",
+    "Pico CTF/General Skills 2/07-Magikarp Ground Mission.md",
+    "Pico CTF/General Skills 2/09-Big zip.md",
+    "Pico CTF/General Skills 2/04-Static ain't always noise.md",
+    "Pico CTF/General Skills 2/05-Useless.md",
+    "Pico CTF/General Skills 2/06-Tab, Tab, Attack.md",
     "Pico CTF/General Skills/09-Glitch Cat.md",
     "Pico CTF/General Skills/08-Plumbing.md",
-    "Pico CTF/General Skills/07-What's a net cat.md",
     "Pico CTF/General Skills/06-Obedient Cat.md",
-    "Pico CTF/General Skills/05-First Grep.md",
     "Pico CTF/General Skills/04-Bases.md",
     "Pico CTF/General Skills/02-2Warm.md",
     "Pico CTF/General Skills/03-Warmed Up.md",
+    "Pico CTF/General Skills/10-Nice netcat.md",
     "Pico CTF/General Skills/01-Lets Warm Up.md",
+    "Pico CTF/General Skills 2",
+    "Pico CTF/General Skills/07-What's a net cat.md",
+    "Pico CTF/General Skills/05-First Grep.md",
     "README.md",
     "Pico CTF/General Skills",
     "Bienvenido.md",
