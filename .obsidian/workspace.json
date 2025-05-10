@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pico CTF/Forensic 4/06-Operation Oni.md",
+                "file": "Pico CTF/Forensic 5/03-Redaction gone wrong.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06-Operation Oni"
+              "title": "03-Redaction gone wrong"
             }
           }
         ]
@@ -170,12 +170,26 @@
   },
   "active": "6eddf1ccf58af192",
   "lastOpenFiles": [
+    "Pico CTF/Forensic 5/02-St3g0.md",
+    "Pico CTF/Forensic 5/01-information.md",
+    "Pico CTF/Forensic 4/06-Operation Oni.md",
     "Pico CTF/Forensic 4/05-Operation Orchid.md",
+    "Pico CTF/Forensic 4/01-Milkslap.md",
+    "Pico CTF/Forensic 4/02-Disk, disk, sleuth!.md",
+    "Pico CTF/Forensic 5/03-Redaction gone wrong.md",
+    "Pico CTF/Forensic 5/05-Scan Surprise.md",
+    "Pico CTF/Forensic 5/04-hideme.md",
+    "Pico CTF/Forensic 5/06-CanYouSee.md",
+    "Pico CTF/Forensic 5/07-Secret of the Polyglot.md",
+    "Pico CTF/Forensic 5/08-RED.md",
+    "Pico CTF/Forensic 5/09-Ph4nt0m 1ntrud3r.md",
+    "Pico CTF/Forensic 5/10-flags are stepic.md",
+    "Pico CTF/General Skills 2/02-Strings It.md",
+    "Pico CTF/Forensic 1/03-Shark on wire 1.md",
+    "Pico CTF/Forensic 5/08-Secret of the Polyglot.md",
+    "Pico CTF/Forensic 5",
     "Pico CTF/Forensic 4/04-Sleuthkit Apprentice.md",
     "Pico CTF/Forensic 4/03-Sleuthkit Intro.md",
-    "Pico CTF/Forensic 4/02-Disk, disk, sleuth!.md",
-    "Pico CTF/Forensic 4/01-Milkslap.md",
-    "Pico CTF/Forensic 4/06-Operation Oni.md",
     "Pico CTF/Forensic 1/02-So Meta.md",
     "Pico CTF/Web 4/03-Trickster.md",
     "Pico CTF/Forensic 4",
@@ -184,20 +198,7 @@
     "Pico CTF/Web 4/04-Most Cookies.md",
     "Pico CTF/Forensic 3/05-MacroHard WeakEdge.md",
     "Pico CTF/Web 5/01-Includes.md",
-    "Pico CTF/Web 5/03-IntroToBurp.md",
-    "Pico CTF/Web 5/04-Local Authority.md",
-    "Pico CTF/Forensic 3/01-WebNet0.md",
-    "Pico CTF/Forensic 3/04-tunn3l_v1s10n.md",
-    "Pico CTF/Forensic 3/02-Webnet1.md",
-    "Pico CTF/Forensic 3/03-Matryoshka doll.md",
-    "Pico CTF/Web 5/10-WebDecode.md",
-    "Pico CTF/Forensic 2/05-shark on wire 2.md",
-    "Pico CTF/Forensic 2/01-m00nwalk.md",
-    "Pico CTF/Forensic 2/04-like1000.md",
-    "Pico CTF/Forensic 2/03-c0rrupt.md",
     "Pico CTF/Forensic 3",
-    "Pico CTF/Forensic 2/02-WhitePages.md",
-    "Pico CTF/Forensic 1/05-What Lies Within.md",
     "Pico CTF/Forensic 2",
     "Pasted image 20250416204134.png",
     "Pico CTF/Primer Examen Parcial/Web",
@@ -205,7 +206,6 @@
     "Pico CTF/Primer Examen Parcial",
     "Pico CTF/Forensic 1",
     "Pico CTF/Web 5",
-    "Compiladores/programa",
-    "Compiladores"
+    "Compiladores/programa"
   ]
 }
