@@ -10,6 +10,7 @@ Así que realizamos un archivo python llamado exploit para resolver las pregunta
 
 ```
 Información necesaria para hacer el exploit:
+
 RSA	- Llave pública - asimétrico
 
 m	- mensaje en original o mensaje en texto plano
@@ -41,6 +42,7 @@ Resultados:
 4: 836623060
 
 exploit.py: 
+
 from pwn import *
 
 s = remote("jupiter.challenges.picoctf.org", 18821)

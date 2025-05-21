@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pico CTF/Crypto 2/01-rsa-pop-quiz.md",
+                "file": "Pico CTF/Crypto 3/04-b00tl3gRSA3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-rsa-pop-quiz"
+              "title": "04-b00tl3gRSA3"
             }
           }
         ]
@@ -170,9 +170,14 @@
   },
   "active": "6eddf1ccf58af192",
   "lastOpenFiles": [
-    "Pico CTF/Crypto 1/01-The numbers.md",
-    "Pico CTF/Crypto 1/02-13.md",
+    "Pico CTF/Crypto 3/03-b00tl3gRSA2.md",
+    "Pico CTF/Crypto 3/02-Mind your Ps and Qs.md",
+    "Pico CTF/Crypto 3/01-Mini RSA.md",
+    "Pico CTF/Crypto 3/04-b00tl3gRSA3.md",
     "Pico CTF/Crypto 2/01-rsa-pop-quiz.md",
+    "Pico CTF/Crypto 1/01-The numbers.md",
+    "Pico CTF/Crypto 3",
+    "Pico CTF/Crypto 1/02-13.md",
     "Pico CTF/Crypto 2",
     "Pico CTF/Crypto 1/03-Caesar.md",
     "Pico CTF/Crypto 1/04-Easy 1.md",
@@ -194,10 +199,6 @@
     "Pico CTF/Forensic 5/06-CanYouSee.md",
     "Pico CTF/Forensic 5/07-Secret of the Polyglot.md",
     "Pico CTF/Forensic 5/08-RED.md",
-    "Pico CTF/Forensic 5/09-Ph4nt0m 1ntrud3r.md",
-    "Pico CTF/Forensic 5/10-flags are stepic.md",
-    "Pico CTF/General Skills 2/02-Strings It.md",
-    "Pico CTF/Forensic 1/03-Shark on wire 1.md",
     "Pico CTF/Forensic 5",
     "Pico CTF/Forensic 4",
     "Pico CTF/Forensic 3",
@@ -205,7 +206,6 @@
     "Pasted image 20250416204134.png",
     "Pico CTF/Primer Examen Parcial/Web",
     "Pico CTF/Primer Examen Parcial/General Skills",
-    "Pico CTF/Primer Examen Parcial",
-    "Pico CTF/Forensic 1"
+    "Pico CTF/Primer Examen Parcial"
   ]
 }
